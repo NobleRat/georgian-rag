@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "checks_passed": 5911,
+  "originals_verified": 24,
+  "native_units": 2020,
+  "native_chunks": 550,
+  "tables": 11,
+  "footnotes": 7,
+  "page_previews": 316,
+  "ocr_pages": 234,
+  "visual_review_scope": "All 131 derived Word pages viewed as contact sheets; detailed formula/structure samples inspected. Original PDFs sampled in prior audit including all seven zero-text pages. Not word-by-word human proofreading.",
+  "coverage_limit": "OCR and visual diagram interpretation are not certified error-free; unverified content is separated."
+}

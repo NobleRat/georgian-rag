@@ -1,0 +1,23 @@
+# Render Blueprint (https://render.com/docs/blueprint-spec).
+# The disk of a Render web service is temporary: on every start the app rebuilds its
+# SQLite index from files in this repository and restores embeddings from
+# prebuilt/embeddings/*.npz — no OpenAI calls are needed for that.
+services:
+  - type: web
+    name: georgian-rag
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    # One worker: the search index and the indexing job live in process memory.
+    startCommand: uvicorn app.server:app --host 0.0.0.0 --port $PORT --workers 1
+    healthCheckPath: /healthz
+    autoDeployTrigger: commit
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false          # entered in the Render dashboard, never committed
+      - key: APP_PASSWORD
+        sync: false          # login password for the site (user name: rag)
+      - key: OPENAI_CHAT_MODEL
+        value: gpt-6.1-terra
+      - key: OPENAI_EMBEDDING_MODEL
+        value: text-embedding-3-large

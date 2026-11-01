@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="ka">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>დოკუმენტების ასისტენტი</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo" aria-hidden="true">📚</span>
+    <div>
+      <h1>დოკუმენტების ასისტენტი</h1>
+      <p class="subtitle">პასუხები მხოლოდ თქვენი ბიბლიოთეკის საფუძველზე</p>
+    </div>
+  </div>
+  <div class="pills" id="pills"></div>
+</header>
+
+<div id="banner" class="banner hidden" role="alert"></div>
+
+<div class="layout">
+  <aside class="sidebar">
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-tab="docs" role="tab">დოკუმენტები</button>
+      <button class="tab" data-tab="index" role="tab">ინდექსი</button>
+      <button class="tab" data-tab="costs" role="tab">ხარჯები</button>
+    </nav>
+
+    <section class="panel" id="tab-docs">
+      <div class="doc-tools">
+        <input type="search" id="docFilter" placeholder="დოკუმენტის ძებნა სიაში…" aria-label="დოკუმენტის ძებნა">
+        <div class="row">
+          <button class="link" id="selAll">ყველას მონიშვნა</button>
+          <button class="link" id="selNone">მონიშვნის მოხსნა</button>
+        </div>
+        <p class="hint" id="scopeHint"></p>
+      </div>
+      <ul class="doclist" id="docList"></ul>
+    </section>
+
+    <section class="panel hidden" id="tab-index">
+      <h3>მონაცემები</h3>
+      <div id="importInfo" class="kv"></div>
+      <button class="btn secondary" id="btnReimport">ბიბლიოთეკის ხელახალი იმპორტი</button>
+      <p class="hint">განმეორებითი იმპორტი დუბლიკატებს არ ქმნის: უცვლელი ჩანაწერები გამოტოვებულია.</p>
+
+      <h3>სემანტიკური ინდექსი (embeddings)</h3>
+      <div id="coverage" class="kv"></div>
+      <div class="progress"><div class="bar" id="progressBar"></div></div>
+      <div id="jobInfo" class="hint"></div>
+      <div class="row wrap">
+        <button class="btn secondary" id="btnEstimate">ხარჯის შეფასება</button>
+        <button class="btn" id="btnStart" disabled>ინდექსირების დაწყება</button>
+        <button class="btn danger hidden" id="btnStop">შეჩერება</button>
+      </div>
+      <div id="estimate" class="estimate hidden"></div>
+
+      <h3>OpenAI</h3>
+      <div id="openaiInfo" class="kv"></div>
+      <button class="btn secondary" id="btnCheck">OpenAI-ის შემოწმება</button>
+      <div id="checkResult" class="hint"></div>
+    </section>
+
+    <section class="panel hidden" id="tab-costs">
+      <h3>API-ის გამოყენება (მიახლოებითი)</h3>
+      <div id="usage"></div>
+      <p class="hint" id="priceNote"></p>
+    </section>
+  </aside>
+
+  <main class="chat">
+    <div class="chat-toolbar">
+      <label>გვერდის სურათები:
+        <select id="imageMode">
+          <option value="auto">ავტომატურად (საჭიროებისას)</option>
+          <option value="always">ყოველთვის</option>
+          <option value="never">არასდროს</option>
+        </select>
+      </label>
+      <label class="check" title="OCR შეიცავს შეცდომებს. ჩართვისას მისი საშუალებით მხოლოდ კანდიდატი გვერდი მოიძებნება და მოდელს გვერდის სურათი მიეწოდება.">
+        <input type="checkbox" id="includeOcr"> გადაუმოწმებელი OCR-ით გვერდების ძიება
+      </label>
+      <button class="btn secondary" id="btnNew">ახალი საუბარი</button>
+    </div>
+
+    <div class="messages" id="messages" aria-live="polite">
+      <div class="welcome" id="welcome">
+        <h2>დასვით კითხვა თქვენს დოკუმენტებზე</h2>
+        <p>პასუხს თან ახლავს წყაროების ბარათები: შეგიძლიათ გახსნათ ამონარიდი და გვერდის გამოსახულება.</p>
+        <div class="examples" id="examples"></div>
+      </div>
+    </div>
+
+    <form class="composer" id="composer">
+      <textarea id="question" rows="2" placeholder="მაგ.: როდის იქნა მიღებული გამყინვარების თეორია?" aria-label="კითხვა"></textarea>
+      <button class="btn send" id="btnSend" type="submit">გაგზავნა</button>
+    </form>
+  </main>
+</div>
+
+<div class="modal hidden" id="modal" role="dialog" aria-modal="true">
+  <div class="modal-box">
+    <div class="modal-head">
+      <h3 id="modalTitle"></h3>
+      <button class="icon" id="modalClose" aria-label="დახურვა">✕</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

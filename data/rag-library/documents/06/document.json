@@ -1,0 +1,904 @@
+{
+  "document_id": "06",
+  "original_filename": "Paleobotanikuri kvlevis metodebi.pdf",
+  "original_archive_path": "სატესტო/Paleobotanikuri kvlevis metodebi.pdf",
+  "original_sha256": "434f4438881e3f184d127e90dd754f37cac5ab272c5d0119032befb0011cb199",
+  "language": "ka",
+  "units": [
+    {
+      "document_id": "06",
+      "unit_id": "06-p001-b000",
+      "kind": "pdf_text_block",
+      "text": "პალეობოტანიკური  კვლევის",
+      "markdown": "პალეობოტანიკური  კვლევის",
+      "locator": {
+        "pdf_page": 1,
+        "block": 0,
+        "bbox": [
+          75.40799713134766,
+          -21.25552749633789,
+          702.4736328125,
+          72.49874877929688
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p001-b001",
+      "kind": "pdf_text_block",
+      "text": "მეთოდები",
+      "markdown": "მეთოდები",
+      "locator": {
+        "pdf_page": 1,
+        "block": 1,
+        "bbox": [
+          257.7099914550781,
+          73.10618591308594,
+          464.9488830566406,
+          120.49874877929688
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p001-b002",
+      "kind": "pdf_text_block",
+      "text": "ელისო ყვავაძე",
+      "markdown": "ელისო ყვავაძე",
+      "locator": {
+        "pdf_page": 1,
+        "block": 2,
+        "bbox": [
+          247.6300048828125,
+          122.79449462890625,
+          472.8271484375,
+          254.86322021484375
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p001-b004",
+      "kind": "pdf_text_block",
+      "text": "საქართველოს ეროვნული მუზეუმი",
+      "markdown": "საქართველოს ეროვნული მუზეუმი",
+      "locator": {
+        "pdf_page": 1,
+        "block": 4,
+        "bbox": [
+          93.16799926757812,
+          295.0037841796875,
+          627.1671142578125,
+          370.083251953125
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 4
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p001-b005",
+      "kind": "pdf_text_block",
+      "text": "თბილისი",
+      "markdown": "თბილისი",
+      "locator": {
+        "pdf_page": 1,
+        "block": 5,
+        "bbox": [
+          283.989990234375,
+          371.82379150390625,
+          436.3271484375,
+          446.9032287597656
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 5
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p001-b006",
+      "kind": "pdf_text_block",
+      "text": "2020",
+      "markdown": "2020",
+      "locator": {
+        "pdf_page": 1,
+        "block": 6,
+        "bbox": [
+          320.260009765625,
+          448.6278076171875,
+          400.2071228027344,
+          522.7763671875
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 6
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p002-b000",
+      "kind": "pdf_text_block",
+      "text": "ფოთლების \nანაბეჭდების",
+      "markdown": "ფოთლების   \nანაბეჭდების",
+      "locator": {
+        "pdf_page": 2,
+        "block": 0,
+        "bbox": [
+          109.45999908447266,
+          190.63449096679688,
+          206.77687072753906,
+          228.7847442626953
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p002-b001",
+      "kind": "pdf_text_block",
+      "text": "კვლევა",
+      "markdown": "კვლევა",
+      "locator": {
+        "pdf_page": 2,
+        "block": 1,
+        "bbox": [
+          129.25999450683594,
+          229.0561981201172,
+          186.97686767578125,
+          247.98475646972656
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p002-b002",
+      "kind": "pdf_text_block",
+      "text": "პალინოლოგიური",
+      "markdown": "პალინოლოგიური",
+      "locator": {
+        "pdf_page": 2,
+        "block": 2,
+        "bbox": [
+          508.3399963378906,
+          200.25621032714844,
+          647.2069091796875,
+          219.1847686767578
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p002-b003",
+      "kind": "pdf_text_block",
+      "text": "კვლევა",
+      "markdown": "კვლევა",
+      "locator": {
+        "pdf_page": 2,
+        "block": 3,
+        "bbox": [
+          548.9000244140625,
+          219.45619201660156,
+          606.6469116210938,
+          238.38475036621094
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 3
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p002-b004",
+      "kind": "pdf_text_block",
+      "text": "განამარხებული",
+      "markdown": "განამარხებული",
+      "locator": {
+        "pdf_page": 2,
+        "block": 4,
+        "bbox": [
+          301.6099853515625,
+          190.63449096679688,
+          422.95355224609375,
+          209.5915069580078
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 4
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p002-b005",
+      "kind": "pdf_text_block",
+      "text": "თესლებისა და \nნაყოფების კვლევა",
+      "markdown": "თესლებისა და   \nნაყოფების კვლევა",
+      "locator": {
+        "pdf_page": 2,
+        "block": 5,
+        "bbox": [
+          292.489990234375,
+          209.85618591308594,
+          432.06689453125,
+          247.98475646972656
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 5
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p002-b006",
+      "kind": "pdf_text_block",
+      "text": "1.\nგეოლოგიური ნალექების სტრატიგრაფიული დაყოფა  \n2.\nმცენარეთა განვითარების ისტორია \n3.\nპალეოკლიმატის რეკონსტრუქცია \n4.\nზღვის დონის ფლუქტუაციების გამოვლენა \n5.\nადამიანის სამეურნეო მოღვაწეობის ტიპის დადგენა \n6.\nუძველესი ადამიანის დიეტის გამოვლენა \n7.\nპრეისტორიული ადამიანის სამკურნალო მცენარეების სიის დადგენა \n8.\nპრეისტორიული ადამიანის პალეოდაავადებების გამოვლენა  \n9.\nდაკრძალვის ტრადიციების დადგენა, სადაც ასახულია მოსახლეობის ეკონომიკური და \nსოციალური  მდგომარეობა",
+      "markdown": "1.  \nგეოლოგიური ნალექების სტრატიგრაფიული დაყოფა    \n2.  \nმცენარეთა განვითარების ისტორია   \n3.  \nპალეოკლიმატის რეკონსტრუქცია   \n4.  \nზღვის დონის ფლუქტუაციების გამოვლენა   \n5.  \nადამიანის სამეურნეო მოღვაწეობის ტიპის დადგენა   \n6.  \nუძველესი ადამიანის დიეტის გამოვლენა   \n7.  \nპრეისტორიული ადამიანის სამკურნალო მცენარეების სიის დადგენა   \n8.  \nპრეისტორიული ადამიანის პალეოდაავადებების გამოვლენა    \n9.  \nდაკრძალვის ტრადიციების დადგენა, სადაც ასახულია მოსახლეობის ეკონომიკური და   \nსოციალური  მდგომარეობა",
+      "locator": {
+        "pdf_page": 2,
+        "block": 6,
+        "bbox": [
+          122.05999755859375,
+          260.1087951660156,
+          639.435791015625,
+          482.41558837890625
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 6
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p003-b000",
+      "kind": "pdf_text_block",
+      "text": "განამარხებული  ფოთლები",
+      "markdown": "განამარხებული  ფოთლები",
+      "locator": {
+        "pdf_page": 3,
+        "block": 0,
+        "bbox": [
+          321.8900146484375,
+          70.2362060546875,
+          680.73291015625,
+          103.39676666259766
+        ],
+        "page_image": "pages/003.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p004-b000",
+      "kind": "pdf_text_block",
+      "text": "განამარხებული  თესლები",
+      "markdown": "განამარხებული  თესლები",
+      "locator": {
+        "pdf_page": 4,
+        "block": 0,
+        "bbox": [
+          359.57000732421875,
+          23.036197662353516,
+          706.8728637695312,
+          56.196754455566406
+        ],
+        "page_image": "pages/004.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p004-b001",
+      "kind": "pdf_text_block",
+      "text": "Haddon nuts  \n600 მილიონი წლის წინანდელი თესლები",
+      "markdown": "Haddon nuts    \n600 მილიონი წლის წინანდელი თესლები",
+      "locator": {
+        "pdf_page": 4,
+        "block": 1,
+        "bbox": [
+          395.6199951171875,
+          269.2099914550781,
+          669.5631103515625,
+          306.6052551269531
+        ],
+        "page_image": "pages/004.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p004-b002",
+      "kind": "pdf_text_block",
+      "text": "განამარხებული \n Trigonocarpus -ის თესლები",
+      "markdown": "განამარხებული   \n Trigonocarpus -ის თესლები",
+      "locator": {
+        "pdf_page": 4,
+        "block": 2,
+        "bbox": [
+          440.9800109863281,
+          484.7122802734375,
+          625.0431518554688,
+          522.1292724609375
+        ],
+        "page_image": "pages/004.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p005-b000",
+      "kind": "pdf_text_block",
+      "text": "შავი ზღვის ქანების ჭრილების",
+      "markdown": "შავი ზღვის ქანების ჭრილების",
+      "locator": {
+        "pdf_page": 5,
+        "block": 0,
+        "bbox": [
+          174.60000610351562,
+          29.846195220947266,
+          574.3629150390625,
+          63.006752014160156
+        ],
+        "page_image": "pages/005.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p005-b001",
+      "kind": "pdf_text_block",
+      "text": "ადგილმდებარეობა",
+      "markdown": "ადგილმდებარეობა",
+      "locator": {
+        "pdf_page": 5,
+        "block": 1,
+        "bbox": [
+          246.25999450683594,
+          63.44620132446289,
+          509.9228820800781,
+          96.60675811767578
+        ],
+        "page_image": "pages/005.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p009-b000",
+      "kind": "pdf_text_block",
+      "text": "წაბლის  ყვავილობა, მტვრის მარცვლები და",
+      "markdown": "წაბლის  ყვავილობა, მტვრის მარცვლები და",
+      "locator": {
+        "pdf_page": 9,
+        "block": 0,
+        "bbox": [
+          380.6199951171875,
+          58.58619689941406,
+          707.6868896484375,
+          77.51475524902344
+        ],
+        "page_image": "pages/009.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p009-b001",
+      "kind": "pdf_text_block",
+      "text": "ნაყოფი",
+      "markdown": "ნაყოფი",
+      "locator": {
+        "pdf_page": 9,
+        "block": 1,
+        "bbox": [
+          514.9199829101562,
+          77.78620910644531,
+          573.3768920898438,
+          96.71476745605469
+        ],
+        "page_image": "pages/009.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p010-b000",
+      "kind": "pdf_text_block",
+      "text": "წაბლის  ყვავილობა,  მტვრის  მარცვლები  და   ნაყოფი",
+      "markdown": "წაბლის  ყვავილობა,  მტვრის  მარცვლები  და   ნაყოფი",
+      "locator": {
+        "pdf_page": 10,
+        "block": 0,
+        "bbox": [
+          1.560002088546753,
+          30.410005569458008,
+          651.4320068359375,
+          58.87400436401367
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p011-b000",
+      "kind": "pdf_text_block",
+      "text": "არქეოლოგიური  ძეგლების  ადგილმდებარეობა",
+      "markdown": "არქეოლოგიური  ძეგლების  ადგილმდებარეობა",
+      "locator": {
+        "pdf_page": 11,
+        "block": 0,
+        "bbox": [
+          49.70399856567383,
+          30.546207427978516,
+          672.452880859375,
+          63.706764221191406
+        ],
+        "page_image": "pages/011.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p012-b000",
+      "kind": "pdf_text_block",
+      "text": "ჭობარეთის ნამოსახლარი",
+      "markdown": "ჭობარეთის ნამოსახლარი",
+      "locator": {
+        "pdf_page": 12,
+        "block": 0,
+        "bbox": [
+          452.6199951171875,
+          75.6337890625,
+          692.7111206054688,
+          99.40122985839844
+        ],
+        "page_image": "pages/012.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p012-b001",
+      "kind": "pdf_text_block",
+      "text": "დღეს",
+      "markdown": "დღეს",
+      "locator": {
+        "pdf_page": 12,
+        "block": 1,
+        "bbox": [
+          544.6599731445312,
+          99.6337890625,
+          600.651123046875,
+          123.40122985839844
+        ],
+        "page_image": "pages/012.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p012-b002",
+      "kind": "pdf_text_block",
+      "text": "ჭობარეთის ლანდშაფტი",
+      "markdown": "ჭობარეთის ლანდშაფტი",
+      "locator": {
+        "pdf_page": 12,
+        "block": 2,
+        "bbox": [
+          41.90399932861328,
+          370.5220642089844,
+          276.1277770996094,
+          394.3179626464844
+        ],
+        "page_image": "pages/012.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p012-b003",
+      "kind": "pdf_text_block",
+      "text": "5 000 წლის წინ",
+      "markdown": "5 000 წლის წინ",
+      "locator": {
+        "pdf_page": 12,
+        "block": 3,
+        "bbox": [
+          84.88800048828125,
+          394.5437927246094,
+          233.16111755371094,
+          418.31121826171875
+        ],
+        "page_image": "pages/012.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 3
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p013-b000",
+      "kind": "pdf_text_block",
+      "text": "კოდიანას  მთის  დღევანდელი  ლანდშაფტი",
+      "markdown": "კოდიანას  მთის  დღევანდელი  ლანდშაფტი",
+      "locator": {
+        "pdf_page": 13,
+        "block": 0,
+        "bbox": [
+          32.6879997253418,
+          29.613784790039062,
+          693.55712890625,
+          67.61322784423828
+        ],
+        "page_image": "pages/013.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p014-b000",
+      "kind": "pdf_text_block",
+      "text": "გადაჭრილ გორაზე ნიმუშების აღების პროცესი",
+      "markdown": "გადაჭრილ გორაზე ნიმუშების აღების პროცესი",
+      "locator": {
+        "pdf_page": 14,
+        "block": 0,
+        "bbox": [
+          123.41000366210938,
+          17.089998245239258,
+          649.4600219726562,
+          45.55399703979492
+        ],
+        "page_image": "pages/014.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p015-b000",
+      "kind": "pdf_text_block",
+      "text": "გადაჭრილი გორა, კვადრატი BB, სათავსოს ძირიდან  აღებული ნიმუშები",
+      "markdown": "გადაჭრილი გორა, კვადრატი BB, სათავსოს ძირიდან  აღებული ნიმუშები",
+      "locator": {
+        "pdf_page": 15,
+        "block": 0,
+        "bbox": [
+          21.336000442504883,
+          486.7757873535156,
+          709.4711303710938,
+          510.543212890625
+        ],
+        "page_image": "pages/015.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p016-b000",
+      "kind": "pdf_text_block",
+      "text": "გადაჭრილი გორა, კვადრატი BB, \nჭრილში აღმოჩენილ სამეურნეო \nორმოს ძირიდან აღებული \nნიმუშები",
+      "markdown": "გადაჭრილი გორა, კვადრატი BB,   \nჭრილში აღმოჩენილ სამეურნეო   \nორმოს ძირიდან აღებული   \nნიმუშები",
+      "locator": {
+        "pdf_page": 16,
+        "block": 0,
+        "bbox": [
+          112.08000183105469,
+          437.43408203125,
+          424.66778564453125,
+          533.2232055664062
+        ],
+        "page_image": "pages/016.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p018-b000",
+      "kind": "pdf_text_block",
+      "text": "A-ველური ვაზი (Vitis silvestris) B- ჩვეულებრივი ვაზი (Vitis vinifera)",
+      "markdown": "A-ველური ვაზი (Vitis silvestris) B- ჩვეულებრივი ვაზი (Vitis vinifera)",
+      "locator": {
+        "pdf_page": 18,
+        "block": 0,
+        "bbox": [
+          35.47200012207031,
+          484.6158142089844,
+          691.9210815429688,
+          508.38323974609375
+        ],
+        "page_image": "pages/018.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p018-b001",
+      "kind": "pdf_text_block",
+      "text": "B \nA",
+      "markdown": "B   \nA",
+      "locator": {
+        "pdf_page": 18,
+        "block": 1,
+        "bbox": [
+          4.320000171661377,
+          453.58380126953125,
+          370.3511047363281,
+          475.92840576171875
+        ],
+        "page_image": "pages/018.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p019-b000",
+      "kind": "pdf_text_block",
+      "text": "გადაჭრილი გორა, კვადრატი BB, \nსაცხოვრებელ ფენებში \nაღმოჩენილი კულტურული \nვაზის მტვრის მარცვლები",
+      "markdown": "გადაჭრილი გორა, კვადრატი BB,   \nსაცხოვრებელ ფენებში   \nაღმოჩენილი კულტურული   \nვაზის მტვრის მარცვლები",
+      "locator": {
+        "pdf_page": 19,
+        "block": 0,
+        "bbox": [
+          389.95001220703125,
+          148.2120819091797,
+          702.537841796875,
+          244.00123596191406
+        ],
+        "page_image": "pages/019.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p020-b000",
+      "kind": "pdf_text_block",
+      "text": "გადაჭრილი გორა, კვადრატი BB, \nსაცხოვრებელ ფენებში \nაღმოჩენილი: ვაზის (1); \nხორბლის (2); კაკლის (3); \nთხილის (4) მტვრის მარცვლები. \n5-ხორბლის ფიტოლიტი; 6-\nსელის ბოჭკო",
+      "markdown": "გადაჭრილი გორა, კვადრატი BB,   \nსაცხოვრებელ ფენებში   \nაღმოჩენილი: ვაზის (1);   \nხორბლის (2); კაკლის (3);   \nთხილის (4) მტვრის მარცვლები.   \n5-ხორბლის ფიტოლიტი; 6-  \nსელის ბოჭკო",
+      "locator": {
+        "pdf_page": 20,
+        "block": 0,
+        "bbox": [
+          7.199999809265137,
+          342.7538146972656,
+          319.7811279296875,
+          510.543212890625
+        ],
+        "page_image": "pages/020.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p020-b001",
+      "kind": "pdf_text_block",
+      "text": "ფელამუში თუ ჩურჩხელა?!",
+      "markdown": "ფელამუში თუ ჩურჩხელა?!",
+      "locator": {
+        "pdf_page": 20,
+        "block": 1,
+        "bbox": [
+          15.67199993133545,
+          28.420015335083008,
+          328.2720031738281,
+          56.88401412963867
+        ],
+        "page_image": "pages/020.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p021-b000",
+      "kind": "pdf_text_block",
+      "text": "გადაჭრილი გორა, საცხოვრებლის ფენა,თიხის ჭურჭლის ძირში \nაღმოჩენილი ჩვეულებრივი ვაზის მტვრის მარცვლები, რომელიც ღვინის \nარსებობის დასტურია",
+      "markdown": "გადაჭრილი გორა, საცხოვრებლის ფენა,თიხის ჭურჭლის ძირში   \nაღმოჩენილი ჩვეულებრივი ვაზის მტვრის მარცვლები, რომელიც ღვინის   \nარსებობის დასტურია",
+      "locator": {
+        "pdf_page": 21,
+        "block": 0,
+        "bbox": [
+          21.336000442504883,
+          464.9598083496094,
+          693.87109375,
+          536.751220703125
+        ],
+        "page_image": "pages/021.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p022-b000",
+      "kind": "pdf_text_block",
+      "text": "თრელი გორების ნამოსახლარი (მ. აბრამიშვილის ფოტო)",
+      "markdown": "თრელი გორების ნამოსახლარი (მ. აბრამიშვილის ფოტო)",
+      "locator": {
+        "pdf_page": 22,
+        "block": 0,
+        "bbox": [
+          40.12799835205078,
+          470.760009765625,
+          678.81201171875,
+          499.2239990234375
+        ],
+        "page_image": "pages/022.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p023-b000",
+      "kind": "pdf_text_block",
+      "text": "თრელი გორების \nნამოსახლარი, მარნის \nქვევრები (მ. აბრამიშვილის \nფოტო)",
+      "markdown": "თრელი გორების   \nნამოსახლარი, მარნის   \nქვევრები (მ. აბრამიშვილის   \nფოტო)",
+      "locator": {
+        "pdf_page": 23,
+        "block": 0,
+        "bbox": [
+          7.199999809265137,
+          361.65826416015625,
+          314.281982421875,
+          476.5439758300781
+        ],
+        "page_image": "pages/023.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p025-b000",
+      "kind": "pdf_text_block",
+      "text": "დასკვნები",
+      "markdown": "დასკვნები",
+      "locator": {
+        "pdf_page": 25,
+        "block": 0,
+        "bbox": [
+          229.8699951171875,
+          13.200014114379883,
+          350.81201171875,
+          41.66401290893555
+        ],
+        "page_image": "pages/025.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p025-b001",
+      "kind": "pdf_text_block",
+      "text": "•\nყველა ჩამოთვლილ პალეობოტუნიკურ კვლევის \nმეთოდს აქვს თავისი როგორც დადებითი, ასევე \nუარყოფითი მხარე.  \n \n     მაკროსკოპიული ნაშთები გეოლოგიურ ნალექებში",
+      "markdown": "•  \nყველა ჩამოთვლილ პალეობოტუნიკურ კვლევის   \nმეთოდს აქვს თავისი როგორც დადებითი, ასევე   \nუარყოფითი მხარე.    \n   \n     მაკროსკოპიული ნაშთები გეოლოგიურ ნალექებში",
+      "locator": {
+        "pdf_page": 25,
+        "block": 1,
+        "bbox": [
+          129.10000610351562,
+          52.88001251220703,
+          575.1740112304688,
+          169.2880096435547
+        ],
+        "page_image": "pages/025.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "06",
+      "unit_id": "06-p025-b002",
+      "kind": "pdf_text_block",
+      "text": "საკმაოდ იშვიადი მოვლენაა, მაგრამ როგორც \nფოთლების ანაბეჭდები, ასევე მათი თესლები და \nნაყოფები  კარგად ისაზღვრება  ეფრო წვრილ \nტაქსონომიურ ერთეულებათ, ანუ სახეობრივად. \n \n•\nპალინოლოგიური მეთოდის უპირატესობა იმაშია, რომ \nმცენარეთა  მტვერი და სპორები გვხვდება  თითქმის \nყველა გეოლოგიურ ნალექებსა და ასევე \nარქეოლოგიურ მასალაშიც. \n \n•\nმხოლოდ არქეოლოგიური მასალის პალინოლოგიური \nმონაცემები  შესაძლებლობას იძლევა ადამინის \nდიეტის, სამკურნალო საშუალებებისა  და სხვა მისი \nყოფის თავისებურებანის გამოვლენისა.",
+      "markdown": "საკმაოდ იშვიადი მოვლენაა, მაგრამ როგორც   \nფოთლების ანაბეჭდები, ასევე მათი თესლები და   \nნაყოფები  კარგად ისაზღვრება  ეფრო წვრილ   \nტაქსონომიურ ერთეულებათ, ანუ სახეობრივად.   \n   \n•  \nპალინოლოგიური მეთოდის უპირატესობა იმაშია, რომ   \nმცენარეთა  მტვერი და სპორები გვხვდება  თითქმის   \nყველა გეოლოგიურ ნალექებსა და ასევე   \nარქეოლოგიურ მასალაშიც.   \n   \n•  \nმხოლოდ არქეოლოგიური მასალის პალინოლოგიური   \nმონაცემები  შესაძლებლობას იძლევა ადამინის   \nდიეტის, სამკურნალო საშუალებებისა  და სხვა მისი   \nყოფის თავისებურებანის გამოვლენისა.",
+      "locator": {
+        "pdf_page": 25,
+        "block": 2,
+        "bbox": [
+          129.10000610351562,
+          169.5399932861328,
+          615.9739990234375,
+          489.04876708984375
+        ],
+        "page_image": "pages/025.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    }
+  ],
+  "pdf_pages": 25,
+  "source_locator": "original_pdf_page_and_block",
+  "native_layout": "native-layout.json",
+  "secondary_scripts_detected": [
+    "Latin"
+  ],
+  "review_flags": {
+    "visual_content": 25,
+    "no_native_text": 5,
+    "unverified_ocr": 25
+  },
+  "ocr_supplement": "ocr/",
+  "reading_order_note": "Native PDF content blocks with bounding boxes; complex slide reading order has not been exhaustively manually checked."
+}

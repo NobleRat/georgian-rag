@@ -1,0 +1,1344 @@
+{
+  "document_id": "24",
+  "original_filename": "Teoriuli-da-istoriuli-mimoxilva-რ.pdf",
+  "original_archive_path": "სატესტო/Teoriuli-da-istoriuli-mimoxilva-რ.pdf",
+  "original_sha256": "833caa149b704f59d894d139165ec0a6dfb51cefa538a0d1f6009ff59170712e",
+  "language": "ka",
+  "units": [
+    {
+      "document_id": "24",
+      "unit_id": "24-p001-b000",
+      "kind": "pdf_text_block",
+      "text": "ბუნებრივი გარემოს კვლევის მეთოდები",
+      "markdown": "ბუნებრივი გარემოს კვლევის მეთოდები",
+      "locator": {
+        "pdf_page": 1,
+        "block": 0,
+        "bbox": [
+          63.43199920654297,
+          144.78379821777344,
+          665.5971069335938,
+          182.78323364257812
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p001-b001",
+      "kind": "pdf_text_block",
+      "text": "თეორიული და ისტორიული მიმოხილვა",
+      "markdown": "თეორიული და ისტორიული მიმოხილვა",
+      "locator": {
+        "pdf_page": 1,
+        "block": 1,
+        "bbox": [
+          95.83200073242188,
+          184.50379943847656,
+          631.9495239257812,
+          254.75352478027344
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p001-b002",
+      "kind": "pdf_text_block",
+      "text": "გეოარქეოლოგია",
+      "markdown": "გეოარქეოლოგია",
+      "locator": {
+        "pdf_page": 1,
+        "block": 2,
+        "bbox": [
+          263.739990234375,
+          256.3861999511719,
+          463.031982421875,
+          325.8739929199219
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p002-b000",
+      "kind": "pdf_text_block",
+      "text": "• პალეონტოლოგია \n• სედიმენტოლოგია \n• სტრატიგრაფია \n• გეომორფოლოგია \n• პეტროგრაფია \n• გეოქიმია \n• გეოფიზკური \n• გეოქრონოლოგია \n• პალეობიოგეოგრაფია \n• ნიადაგმცოდნეობა \n• ტაფონომია",
+      "markdown": "• პალეონტოლოგია   \n• სედიმენტოლოგია   \n• სტრატიგრაფია   \n• გეომორფოლოგია   \n• პეტროგრაფია   \n• გეოქიმია   \n• გეოფიზკური   \n• გეოქრონოლოგია   \n• პალეობიოგეოგრაფია   \n• ნიადაგმცოდნეობა   \n• ტაფონომია",
+      "locator": {
+        "pdf_page": 2,
+        "block": 0,
+        "bbox": [
+          151.22000122070312,
+          147.98829650878906,
+          416.35601806640625,
+          464.5199890136719
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p002-b001",
+      "kind": "pdf_text_block",
+      "text": "გეოარქეოლოგიაში გაერთიანებულია კვლევის",
+      "markdown": "გეოარქეოლოგიაში გაერთიანებულია კვლევის",
+      "locator": {
+        "pdf_page": 2,
+        "block": 1,
+        "bbox": [
+          69.81600189208984,
+          62.69346618652344,
+          670.1799926757812,
+          91.15674591064453
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p002-b002",
+      "kind": "pdf_text_block",
+      "text": "შემდეგი მეთოდები:",
+      "markdown": "შემდეგი მეთოდები:",
+      "locator": {
+        "pdf_page": 2,
+        "block": 2,
+        "bbox": [
+          233.8800048828125,
+          96.29347229003906,
+          505.1300048828125,
+          124.75675201416016
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p003-b000",
+      "kind": "pdf_text_block",
+      "text": "გეოარქეოლოგიის განვითარების",
+      "markdown": "გეოარქეოლოგიის განვითარების",
+      "locator": {
+        "pdf_page": 3,
+        "block": 0,
+        "bbox": [
+          126.0199966430664,
+          45.388824462890625,
+          621.8159790039062,
+          78.02996826171875
+        ],
+        "page_image": "pages/003.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p003-b001",
+      "kind": "pdf_text_block",
+      "text": "ისტორიული მიმოხილვა",
+      "markdown": "ისტორიული მიმოხილვა",
+      "locator": {
+        "pdf_page": 3,
+        "block": 1,
+        "bbox": [
+          181.94000244140625,
+          91.48652648925781,
+          557.9500122070312,
+          124.1032485961914
+        ],
+        "page_image": "pages/003.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p003-b003",
+      "kind": "pdf_text_block",
+      "text": "• წარმოშობა – XVIII-XIX საუკუნეები \n \n• თანამშრომლობა – XX საუკუნის I ნახევარი \n \n• ინტეგრაცია – XX საუკუნის II ნახევარი",
+      "markdown": "• წარმოშობა – XVIII-XIX საუკუნეები   \n   \n• თანამშრომლობა – XX საუკუნის I ნახევარი   \n   \n• ინტეგრაცია – XX საუკუნის II ნახევარი",
+      "locator": {
+        "pdf_page": 3,
+        "block": 3,
+        "bbox": [
+          49.20000076293945,
+          193.5234832763672,
+          631.595947265625,
+          388.57562255859375
+        ],
+        "page_image": "pages/003.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 3
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p004-b000",
+      "kind": "pdf_text_block",
+      "text": "ჟაკ ბუშე დე კრევეკურ დე პერტიე \nჩრდ. საფრანგეთი, მდ. სომმას ხეობა",
+      "markdown": "ჟაკ ბუშე დე კრევეკურ დე პერტიე   \nჩრდ. საფრანგეთი, მდ. სომმას ხეობა",
+      "locator": {
+        "pdf_page": 4,
+        "block": 0,
+        "bbox": [
+          16.200000762939453,
+          4.4805192947387695,
+          685.5997924804688,
+          32.45635986328125
+        ],
+        "page_image": "pages/004.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p005-b000",
+      "kind": "pdf_text_block",
+      "text": "ჩარლზ ლაიელი (1797-1885)",
+      "markdown": "ჩარლზ ლაიელი (1797-1885)",
+      "locator": {
+        "pdf_page": 5,
+        "block": 0,
+        "bbox": [
+          19.200000762939453,
+          307.54400634765625,
+          290.6718444824219,
+          382.11199951171875
+        ],
+        "page_image": "pages/005.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p005-b001",
+      "kind": "pdf_text_block",
+      "text": "ჩარლზ ლაიელის 1863 წლის ნაშრომმა  \n„გეოლოგიური მონაცემები ადამიანის შესახებ“ საფუძველი ჩაუყარა",
+      "markdown": "ჩარლზ ლაიელის 1863 წლის ნაშრომმა    \n„გეოლოგიური მონაცემები ადამიანის შესახებ“ საფუძველი ჩაუყარა",
+      "locator": {
+        "pdf_page": 5,
+        "block": 1,
+        "bbox": [
+          46.75199890136719,
+          407.6805419921875,
+          664.005615234375,
+          459.670166015625
+        ],
+        "page_image": "pages/005.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p005-b002",
+      "kind": "pdf_text_block",
+      "text": "გეოლოგიური მეცნიერების როლს არქეოლოგიურ კვლევაში",
+      "markdown": "გეოლოგიური მეცნიერების როლს არქეოლოგიურ კვლევაში",
+      "locator": {
+        "pdf_page": 5,
+        "block": 2,
+        "bbox": [
+          78.93599700927734,
+          452.69580078125,
+          632.64111328125,
+          484.0383605957031
+        ],
+        "page_image": "pages/005.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p005-b003",
+      "kind": "pdf_text_block",
+      "text": "გეოლოგიის საფუძვლები, 1833",
+      "markdown": "გეოლოგიის საფუძვლები, 1833",
+      "locator": {
+        "pdf_page": 5,
+        "block": 3,
+        "bbox": [
+          386.1099853515625,
+          327.56549072265625,
+          684.5582275390625,
+          358.2216491699219
+        ],
+        "page_image": "pages/005.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 3
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p006-b000",
+      "kind": "pdf_text_block",
+      "text": "უილიამ პენგელი",
+      "markdown": "უილიამ პენგელი",
+      "locator": {
+        "pdf_page": 6,
+        "block": 0,
+        "bbox": [
+          41.35200119018555,
+          371.2135009765625,
+          277.4022216796875,
+          410.2456359863281
+        ],
+        "page_image": "pages/006.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p006-b001",
+      "kind": "pdf_text_block",
+      "text": "კენტის გათხრები,  დევონი",
+      "markdown": "კენტის გათხრები,  დევონი",
+      "locator": {
+        "pdf_page": 6,
+        "block": 1,
+        "bbox": [
+          29.92799949645996,
+          403.0049133300781,
+          286.8697814941406,
+          474.713623046875
+        ],
+        "page_image": "pages/006.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p006-b002",
+      "kind": "pdf_text_block",
+      "text": "(ინგლისი), 1858 წელი",
+      "markdown": "(ინგლისი), 1858 წელი",
+      "locator": {
+        "pdf_page": 6,
+        "block": 2,
+        "bbox": [
+          64.75199890136719,
+          472.1185302734375,
+          252.0697479248047,
+          500.0943603515625
+        ],
+        "page_image": "pages/006.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p007-b000",
+      "kind": "pdf_text_block",
+      "text": "„გეოლოგიამ განსაზღვრა პრეისტორიული \nარქეოლოგიის საზღვრები და ჩამოაყალიბა მისი \nპრობლემები“ \n \n \n      აკად. დანიელ უილსონი,შოტლანდიელი არქეოლოგი  \n  \n„არქეოლოგიის გეოლოგიური საწყისები“, 1869 წ.",
+      "markdown": "„გეოლოგიამ განსაზღვრა პრეისტორიული   \nარქეოლოგიის საზღვრები და ჩამოაყალიბა მისი   \nპრობლემები“   \n   \n   \n      აკად. დანიელ უილსონი,შოტლანდიელი არქეოლოგი    \n    \n„არქეოლოგიის გეოლოგიური საწყისები“, 1869 წ.",
+      "locator": {
+        "pdf_page": 7,
+        "block": 0,
+        "bbox": [
+          185.57830810546875,
+          10.763978004455566,
+          660.6578369140625,
+          265.4963684082031
+        ],
+        "page_image": "pages/007.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p007-b001",
+      "kind": "pdf_text_block",
+      "text": "“მეცხრამეტე საუკუნის ბევრი დიდი არქეოლოგი \nუპირველეს ყოვლისა გეოლოგი და \nსაბუნებისმეტყველო მეცნიერია”   \n \nმეცხრამეტე საუკუნის არქეოლოგია “თავისი არსით \nგეოლოგია იყო”. \n \n            გლინ დანიელი, ინგლისელი არქეოლოგი 1981",
+      "markdown": "“მეცხრამეტე საუკუნის ბევრი დიდი არქეოლოგი   \nუპირველეს ყოვლისა გეოლოგი და   \nსაბუნებისმეტყველო მეცნიერია”     \n   \nმეცხრამეტე საუკუნის არქეოლოგია “თავისი არსით   \nგეოლოგია იყო”.   \n   \n            გლინ დანიელი, ინგლისელი არქეოლოგი 1981",
+      "locator": {
+        "pdf_page": 7,
+        "block": 1,
+        "bbox": [
+          190.4530487060547,
+          309.54052734375,
+          671.7950439453125,
+          502.75799560546875
+        ],
+        "page_image": "pages/007.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p008-b000",
+      "kind": "pdf_text_block",
+      "text": "ჯუზეპე ფიორელი (1823 - 1896)",
+      "markdown": "ჯუზეპე ფიორელი (1823 - 1896)",
+      "locator": {
+        "pdf_page": 8,
+        "block": 0,
+        "bbox": [
+          323.0400085449219,
+          358.4120178222656,
+          673.1300048828125,
+          382.843994140625
+        ],
+        "page_image": "pages/008.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p008-b001",
+      "kind": "pdf_text_block",
+      "text": "პომპეის გათხრები  - 1960 წელი",
+      "markdown": "პომპეის გათხრები  - 1960 წელი",
+      "locator": {
+        "pdf_page": 8,
+        "block": 1,
+        "bbox": [
+          322.55999755859375,
+          387.2120056152344,
+          673.489990234375,
+          440.4440002441406
+        ],
+        "page_image": "pages/008.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p008-b002",
+      "kind": "pdf_text_block",
+      "text": "პომპეი დღეს",
+      "markdown": "პომპეი დღეს",
+      "locator": {
+        "pdf_page": 8,
+        "block": 2,
+        "bbox": [
+          423.6000061035156,
+          444.8160095214844,
+          572.5399780273438,
+          498.0719909667969
+        ],
+        "page_image": "pages/008.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p009-b000",
+      "kind": "pdf_text_block",
+      "text": "სამოფრაკეს გათხრები, საბერძნეთი",
+      "markdown": "სამოფრაკეს გათხრები, საბერძნეთი",
+      "locator": {
+        "pdf_page": 9,
+        "block": 0,
+        "bbox": [
+          156.25999450683594,
+          386.67431640625,
+          549.2259521484375,
+          411.1307373046875
+        ],
+        "page_image": "pages/009.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p009-b001",
+      "kind": "pdf_text_block",
+      "text": "ერთერთი პირველი ძეგლი სადაც აქცენტი გაკეთდა სტრატიგრაფიაზე",
+      "markdown": "ერთერთი პირველი ძეგლი სადაც აქცენტი გაკეთდა სტრატიგრაფიაზე",
+      "locator": {
+        "pdf_page": 9,
+        "block": 1,
+        "bbox": [
+          91.7040023803711,
+          415.49200439453125,
+          611.6161499023438,
+          468.7200012207031
+        ],
+        "page_image": "pages/009.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p009-b002",
+      "kind": "pdf_text_block",
+      "text": "(1862)",
+      "markdown": "(1862)",
+      "locator": {
+        "pdf_page": 9,
+        "block": 2,
+        "bbox": [
+          328.3900146484375,
+          471.573486328125,
+          375.0999755859375,
+          487.8207702636719
+        ],
+        "page_image": "pages/009.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p010-b000",
+      "kind": "pdf_text_block",
+      "text": "ჰენრიხ შლიმანი          ტროას გათხრები 1874 წელი              ტროა",
+      "markdown": "ჰენრიხ შლიმანი          ტროას გათხრები 1874 წელი              ტროა",
+      "locator": {
+        "pdf_page": 10,
+        "block": 0,
+        "bbox": [
+          31.200000762939453,
+          259.24053955078125,
+          614.3699951171875,
+          279.6412353515625
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p010-b001",
+      "kind": "pdf_text_block",
+      "text": "ჰისალრიკის გორა და მისი მრავალფენიანი გათხრების სტრატიგრაფიული ჩანახაზი",
+      "markdown": "ჰისალრიკის გორა და მისი მრავალფენიანი გათხრების სტრატიგრაფიული ჩანახაზი",
+      "locator": {
+        "pdf_page": 10,
+        "block": 1,
+        "bbox": [
+          12.767999649047852,
+          479.2380065917969,
+          705.7100219726562,
+          497.56201171875
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p010-b002",
+      "kind": "pdf_text_block",
+      "text": "1882 წლიდან არქეოლოგიაში მყარად დამკვიდრდა ტროას გათხრების სტრატიგრაფიული ტექნიკა",
+      "markdown": "1882 წლიდან არქეოლოგიაში მყარად დამკვიდრდა ტროას გათხრების სტრატიგრაფიული ტექნიკა",
+      "locator": {
+        "pdf_page": 10,
+        "block": 2,
+        "bbox": [
+          48.28799819946289,
+          497.1556396484375,
+          674.52783203125,
+          540.7860107421875
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p011-b000",
+      "kind": "pdf_text_block",
+      "text": "ჩრდ. მიჩიგანი, კივენაუს ნახევარკუნძული  \nსპილენძის უძველესი სამთო გამონამუშევარი",
+      "markdown": "ჩრდ. მიჩიგანი, კივენაუს ნახევარკუნძული    \nსპილენძის უძველესი სამთო გამონამუშევარი",
+      "locator": {
+        "pdf_page": 11,
+        "block": 0,
+        "bbox": [
+          25.128000259399414,
+          199.81399536132812,
+          404.5920104980469,
+          312.531982421875
+        ],
+        "page_image": "pages/011.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p011-b002",
+      "kind": "pdf_text_block",
+      "text": "სუპერიორის ტბის რეგიონი,  სპილენძის უძველესი შახტა \n                   ქვის ჩაქუჩები, რომლებსაც გამოყენების კვალი ეტყობა",
+      "markdown": "სუპერიორის ტბის რეგიონი,  სპილენძის უძველესი შახტა   \n                   ქვის ჩაქუჩები, რომლებსაც გამოყენების კვალი ეტყობა",
+      "locator": {
+        "pdf_page": 11,
+        "block": 2,
+        "bbox": [
+          43.20000076293945,
+          465.6300048828125,
+          580.0120239257812,
+          512.3580322265625
+        ],
+        "page_image": "pages/011.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p011-b003",
+      "kind": "pdf_text_block",
+      "text": "აღმოჩენილი - IX საუკუნის პირველ ნახევარში",
+      "markdown": "აღმოჩენილი - IX საუკუნის პირველ ნახევარში",
+      "locator": {
+        "pdf_page": 11,
+        "block": 3,
+        "bbox": [
+          11.567999839782715,
+          358.976318359375,
+          387.6778564453125,
+          384.1378173828125
+        ],
+        "page_image": "pages/011.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 3
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p012-b000",
+      "kind": "pdf_text_block",
+      "text": "XX საუკუნის I ნახევარი \nმულტიდისციპლინარული თანამშრომლობა",
+      "markdown": "XX საუკუნის I ნახევარი   \nმულტიდისციპლინარული თანამშრომლობა",
+      "locator": {
+        "pdf_page": 12,
+        "block": 0,
+        "bbox": [
+          75.552001953125,
+          23.813493728637695,
+          651.3922729492188,
+          96.44562530517578
+        ],
+        "page_image": "pages/012.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p012-b001",
+      "kind": "pdf_text_block",
+      "text": "პლეისტოცენური პერიოდის კვლევის აღმავლობის პერიოდი",
+      "markdown": "პლეისტოცენური პერიოდის კვლევის აღმავლობის პერიოდი",
+      "locator": {
+        "pdf_page": 12,
+        "block": 1,
+        "bbox": [
+          25.007999420166016,
+          89.1749267578125,
+          700.946044921875,
+          158.54600524902344
+        ],
+        "page_image": "pages/012.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p012-b002",
+      "kind": "pdf_text_block",
+      "text": "„ გეომორფოლოგიური კვლევა \n„ ინტენსიურად ჭრილების სტრატიგრაფიული შესწავლა \n„ პალეონტოლოგიური კვლევები \n„ პალეოკლიმატური ინტერპრეტაციები \n„ აქცენტი კეთდება გეოქრონოლოგიური კვლევებზე \n„ არტეფაქტების ლაბორატორიული შესწავლა",
+      "markdown": "„ გეომორფოლოგიური კვლევა   \n„ ინტენსიურად ჭრილების სტრატიგრაფიული შესწავლა   \n„ პალეონტოლოგიური კვლევები   \n„ პალეოკლიმატური ინტერპრეტაციები   \n„ აქცენტი კეთდება გეოქრონოლოგიური კვლევებზე   \n„ არტეფაქტების ლაბორატორიული შესწავლა",
+      "locator": {
+        "pdf_page": 12,
+        "block": 2,
+        "bbox": [
+          19.200000762939453,
+          213.4820098876953,
+          656.8560180664062,
+          419.8518371582031
+        ],
+        "page_image": "pages/012.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p013-b000",
+      "kind": "pdf_text_block",
+      "text": "ლენარტ  ვონ პოსტი, პალინოლოგიური ანალიზის \n(მცენარეთა მტვერის რაოდენობრივი  ანალიზი) მეთოდის",
+      "markdown": "ლენარტ  ვონ პოსტი, პალინოლოგიური ანალიზის   \n(მცენარეთა მტვერის რაოდენობრივი  ანალიზი) მეთოდის",
+      "locator": {
+        "pdf_page": 13,
+        "block": 0,
+        "bbox": [
+          28.368000030517578,
+          446.4960021972656,
+          674.281982421875,
+          503.7599792480469
+        ],
+        "page_image": "pages/013.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p013-b001",
+      "kind": "pdf_text_block",
+      "text": "ფუძემდებელი",
+      "markdown": "ფუძემდებელი",
+      "locator": {
+        "pdf_page": 13,
+        "block": 1,
+        "bbox": [
+          266.9800109863281,
+          504.0982971191406,
+          435.6786804199219,
+          532.5907592773438
+        ],
+        "page_image": "pages/013.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p014-b000",
+      "kind": "pdf_text_block",
+      "text": "დენდროქრონოლოგია \nხის წლიური რგოლები",
+      "markdown": "დენდროქრონოლოგია   \nხის წლიური რგოლები",
+      "locator": {
+        "pdf_page": 14,
+        "block": 0,
+        "bbox": [
+          404.0400085449219,
+          378.30999755859375,
+          664.8086547851562,
+          435.6107177734375
+        ],
+        "page_image": "pages/014.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p014-b001",
+      "kind": "pdf_text_block",
+      "text": "ენდრიუ დუგლასი (1867-1962)",
+      "markdown": "ენდრიუ დუგლასი (1867-1962)",
+      "locator": {
+        "pdf_page": 14,
+        "block": 1,
+        "bbox": [
+          395.3999938964844,
+          465.5665283203125,
+          644.4197998046875,
+          493.5423583984375
+        ],
+        "page_image": "pages/014.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p015-b000",
+      "kind": "pdf_text_block",
+      "text": "ზოლური, ლენტისებრი თიხების დათარიღების მეთოდი",
+      "markdown": "ზოლური, ლენტისებრი თიხების დათარიღების მეთოდი",
+      "locator": {
+        "pdf_page": 15,
+        "block": 0,
+        "bbox": [
+          40.72800064086914,
+          442.89599609375,
+          680.5460205078125,
+          471.3599853515625
+        ],
+        "page_image": "pages/015.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p015-b001",
+      "kind": "pdf_text_block",
+      "text": "(სეზონური რითმული შრეებრიობა)",
+      "markdown": "(სეზონური რითმული შრეებრიობა)",
+      "locator": {
+        "pdf_page": 15,
+        "block": 1,
+        "bbox": [
+          155.58999633789062,
+          471.6960144042969,
+          559.1719970703125,
+          500.1600036621094
+        ],
+        "page_image": "pages/015.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p016-b000",
+      "kind": "pdf_text_block",
+      "text": "stounheნji              foto satelitidan",
+      "markdown": "stounheნji              foto satelitidan",
+      "locator": {
+        "pdf_page": 16,
+        "block": 0,
+        "bbox": [
+          19.923255920410156,
+          474.654296875,
+          323.8527526855469,
+          508.1918029785156
+        ],
+        "page_image": "pages/016.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p017-b000",
+      "kind": "pdf_text_block",
+      "text": "petrografiuli analiziს მეთოდი",
+      "markdown": "petrografiuli analiziს მეთოდი",
+      "locator": {
+        "pdf_page": 17,
+        "block": 0,
+        "bbox": [
+          232.5485382080078,
+          462.52801513671875,
+          493.6114196777344,
+          496.0320129394531
+        ],
+        "page_image": "pages/017.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p018-b000",
+      "kind": "pdf_text_block",
+      "text": "შოტლანდია, სკარა-ბრაე.  სადაც 1927 წელს ჩატარდა        პალეონტოლოგიური",
+      "markdown": "შოტლანდია, სკარა-ბრაე.  სადაც 1927 წელს ჩატარდა        პალეონტოლოგიური",
+      "locator": {
+        "pdf_page": 18,
+        "block": 0,
+        "bbox": [
+          14.447999954223633,
+          470.9665222167969,
+          710.539794921875,
+          498.9423522949219
+        ],
+        "page_image": "pages/018.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p018-b001",
+      "kind": "pdf_text_block",
+      "text": "ანალიზი და პრეისტორიული მარცლეულის კვლევა",
+      "markdown": "ანალიზი და პრეისტორიული მარცლეულის კვლევა",
+      "locator": {
+        "pdf_page": 18,
+        "block": 1,
+        "bbox": [
+          122.2300033569336,
+          494.9488220214844,
+          602.6356201171875,
+          522.9581909179688
+        ],
+        "page_image": "pages/018.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p019-b000",
+      "kind": "pdf_text_block",
+      "text": "ელექტრომაგნიტური და დისტანციური ზონდირების მოწყობილობების",
+      "markdown": "ელექტრომაგნიტური და დისტანციური ზონდირების მოწყობილობების",
+      "locator": {
+        "pdf_page": 19,
+        "block": 0,
+        "bbox": [
+          28.823999404907227,
+          441.5665283203125,
+          697.0695190429688,
+          469.5423583984375
+        ],
+        "page_image": "pages/019.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p019-b001",
+      "kind": "pdf_text_block",
+      "text": "მეშვეობით არქეოლოგიური ობიექტების გამოვლენა. პირველი",
+      "markdown": "მეშვეობით არქეოლოგიური ობიექტების გამოვლენა. პირველი",
+      "locator": {
+        "pdf_page": 19,
+        "block": 1,
+        "bbox": [
+          74.06400299072266,
+          465.5665283203125,
+          647.249755859375,
+          493.5423583984375
+        ],
+        "page_image": "pages/019.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p019-b002",
+      "kind": "pdf_text_block",
+      "text": "ელექტროძიება ჩატარდა 1948 წელს ინგლისში",
+      "markdown": "ელექტროძიება ჩატარდა 1948 წელს ინგლისში",
+      "locator": {
+        "pdf_page": 19,
+        "block": 2,
+        "bbox": [
+          154.1300048828125,
+          489.5665283203125,
+          567.2097778320312,
+          517.5423583984375
+        ],
+        "page_image": "pages/019.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p020-b000",
+      "kind": "pdf_text_block",
+      "text": "XX საუკუნის II ნახევარი",
+      "markdown": "XX საუკუნის II ნახევარი",
+      "locator": {
+        "pdf_page": 20,
+        "block": 0,
+        "bbox": [
+          206.86000061035156,
+          21.600008010864258,
+          483.81201171875,
+          50.06400680541992
+        ],
+        "page_image": "pages/020.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p020-b001",
+      "kind": "pdf_text_block",
+      "text": "ინტეგრაცია",
+      "markdown": "ინტეგრაცია",
+      "locator": {
+        "pdf_page": 20,
+        "block": 1,
+        "bbox": [
+          275.9800109863281,
+          51.47827911376953,
+          414.6719970703125,
+          107.68400573730469
+        ],
+        "page_image": "pages/020.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p020-b002",
+      "kind": "pdf_text_block",
+      "text": "ფოკუსირება ქრონოლოგიაზე: \n \n•\nრადიოაქტიური ნახშირბადით დათარიღების მეთოდი \n(1940) \n•\nK-Ar-ის იზოტოპებით დათარიღების მეთოდი \n•\nობსიდიანით დათარიღება \n•\nგეოქიმიური და გეოფიზიკური ტექნიკა",
+      "markdown": "ფოკუსირება ქრონოლოგიაზე:   \n   \n•  \nრადიოაქტიური ნახშირბადით დათარიღების მეთოდი   \n(1940)   \n•  \nK-Ar-ის იზოტოპებით დათარიღების მეთოდი   \n•  \nობსიდიანით დათარიღება   \n•  \nგეოქიმიური და გეოფიზიკური ტექნიკა",
+      "locator": {
+        "pdf_page": 20,
+        "block": 2,
+        "bbox": [
+          25.200000762939453,
+          109.10000610351562,
+          656.7640991210938,
+          459.239990234375
+        ],
+        "page_image": "pages/020.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p021-b000",
+      "kind": "pdf_text_block",
+      "text": "1940 წელს ფრენკ ლიბის მიერ შემოღებული \nრადიოაქტიური ნახშირბადით C14 დათარიღების",
+      "markdown": "1940 წელს ფრენკ ლიბის მიერ შემოღებული   \nრადიოაქტიური ნახშირბადით C14 დათარიღების",
+      "locator": {
+        "pdf_page": 21,
+        "block": 0,
+        "bbox": [
+          81.6719970703125,
+          390.2742919921875,
+          632.3240966796875,
+          443.52398681640625
+        ],
+        "page_image": "pages/021.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p021-b001",
+      "kind": "pdf_text_block",
+      "text": "მეთოდი",
+      "markdown": "მეთოდი",
+      "locator": {
+        "pdf_page": 21,
+        "block": 1,
+        "bbox": [
+          307.17999267578125,
+          447.88800048828125,
+          406.9200134277344,
+          472.3199768066406
+        ],
+        "page_image": "pages/021.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p022-b000",
+      "kind": "pdf_text_block",
+      "text": "K-Ar-ით დათარიღების მეთოდი",
+      "markdown": "K-Ar-ით დათარიღების მეთოდი",
+      "locator": {
+        "pdf_page": 22,
+        "block": 0,
+        "bbox": [
+          182.3800048828125,
+          461.0880126953125,
+          543.6199951171875,
+          485.5199890136719
+        ],
+        "page_image": "pages/022.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p023-b000",
+      "kind": "pdf_text_block",
+      "text": "კერამიკის პეტროგრაფიული ანალიზი",
+      "markdown": "კერამიკის პეტროგრაფიული ანალიზი",
+      "locator": {
+        "pdf_page": 23,
+        "block": 0,
+        "bbox": [
+          145.22000122070312,
+          476.3520202636719,
+          572.5,
+          500.78399658203125
+        ],
+        "page_image": "pages/023.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p024-b000",
+      "kind": "pdf_text_block",
+      "text": "olmekTa monumentebi, meqsika",
+      "markdown": "olmekTa monumentebi, meqsika",
+      "locator": {
+        "pdf_page": 24,
+        "block": 0,
+        "bbox": [
+          124.38999938964844,
+          477.8236389160156,
+          355.4218444824219,
+          510.0398254394531
+        ],
+        "page_image": "pages/024.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p025-b000",
+      "kind": "pdf_text_block",
+      "text": "ბრინჯაოს ხანის არტეფაქტებზე მეტალების  \nშემცველობის შესწავლა ხდება  \nრენტგენოფლუორისცენტული (XRF) \nანალიზი. \n \nიგი იძლევა ინფორმაციას თუ რა მეტალს \nადნობდნენ ძეგლზე - სპილენძს, ტყვიას, \nრკინას თუ რამე სხვას",
+      "markdown": "ბრინჯაოს ხანის არტეფაქტებზე მეტალების    \nშემცველობის შესწავლა ხდება    \nრენტგენოფლუორისცენტული (XRF)   \nანალიზი.   \n   \nიგი იძლევა ინფორმაციას თუ რა მეტალს   \nადნობდნენ ძეგლზე - სპილენძს, ტყვიას,   \nრკინას თუ რამე სხვას",
+      "locator": {
+        "pdf_page": 25,
+        "block": 0,
+        "bbox": [
+          16.200000762939453,
+          298.05999755859375,
+          384.9939880371094,
+          493.39801025390625
+        ],
+        "page_image": "pages/025.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p026-b000",
+      "kind": "pdf_text_block",
+      "text": "ობსიდიანის ანალიზი წყაროს დადგენის მიზნით",
+      "markdown": "ობსიდიანის ანალიზი წყაროს დადგენის მიზნით",
+      "locator": {
+        "pdf_page": 26,
+        "block": 0,
+        "bbox": [
+          72.91200256347656,
+          384.5143127441406,
+          617.0718994140625,
+          418.05181884765625
+        ],
+        "page_image": "pages/026.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p027-b000",
+      "kind": "pdf_text_block",
+      "text": "წყალქვეშა არქეოლოგიური ძება",
+      "markdown": "წყალქვეშა არქეოლოგიური ძება",
+      "locator": {
+        "pdf_page": 27,
+        "block": 0,
+        "bbox": [
+          207.64999389648438,
+          430.310546875,
+          505.1497802734375,
+          458.286376953125
+        ],
+        "page_image": "pages/027.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p027-b001",
+      "kind": "pdf_text_block",
+      "text": "საქართველოში წყალქვეშა არქეოლოგიური კვლევები 1985 წლიდან",
+      "markdown": "საქართველოში წყალქვეშა არქეოლოგიური კვლევები 1985 წლიდან",
+      "locator": {
+        "pdf_page": 27,
+        "block": 1,
+        "bbox": [
+          53.880001068115234,
+          453.5980529785156,
+          659.015625,
+          494.90216064453125
+        ],
+        "page_image": "pages/027.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p027-b002",
+      "kind": "pdf_text_block",
+      "text": "ტარდება შავიზღვისპირეთსა და პალიასტომის მიდამოებში",
+      "markdown": "ტარდება შავიზღვისპირეთსა და პალიასტომის მიდამოებში",
+      "locator": {
+        "pdf_page": 27,
+        "block": 2,
+        "bbox": [
+          19.200000762939453,
+          490.9345397949219,
+          630.9297485351562,
+          537.9660034179688
+        ],
+        "page_image": "pages/027.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p028-b000",
+      "kind": "pdf_text_block",
+      "text": "XX საუკუნის ბოლოს გეომეცნიერებებსა და არქეოლოგიას შორის მოხდა \nთეორიული \nსაფუძვლებისა \nდა \nმეთოდოლოგიური \nინტერესების \nგაერთიანება, \nმათი \nფორმულირება \nდა \nგამოყენება \nსაველე \nდა \nლაბორატორიული კვლევებისას",
+      "markdown": "XX საუკუნის ბოლოს გეომეცნიერებებსა და არქეოლოგიას შორის მოხდა   \nთეორიული   \nსაფუძვლებისა   \nდა   \nმეთოდოლოგიური   \nინტერესების   \nგაერთიანება,   \nმათი   \nფორმულირება   \nდა   \nგამოყენება   \nსაველე   \nდა   \nლაბორატორიული კვლევებისას",
+      "locator": {
+        "pdf_page": 28,
+        "block": 0,
+        "bbox": [
+          37.20000076293945,
+          405.5705261230469,
+          705.6897583007812,
+          505.5423583984375
+        ],
+        "page_image": "pages/028.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p028-b001",
+      "kind": "pdf_text_block",
+      "text": "საქართველოში გეოარქეოლოგიური კუთხით მიღებულია მნიშვნელოვანი",
+      "markdown": "საქართველოში გეოარქეოლოგიური კუთხით მიღებულია მნიშვნელოვანი",
+      "locator": {
+        "pdf_page": 28,
+        "block": 1,
+        "bbox": [
+          62.63999938964844,
+          39.536319732666016,
+          673.6378173828125,
+          64.69782257080078
+        ],
+        "page_image": "pages/028.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "24",
+      "unit_id": "24-p028-b002",
+      "kind": "pdf_text_block",
+      "text": "შედეგები",
+      "markdown": "შედეგები",
+      "locator": {
+        "pdf_page": 28,
+        "block": 2,
+        "bbox": [
+          43.20000076293945,
+          61.154014587402344,
+          413.9020080566406,
+          105.72198486328125
+        ],
+        "page_image": "pages/028.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    }
+  ],
+  "pdf_pages": 28,
+  "source_locator": "original_pdf_page_and_block",
+  "native_layout": "native-layout.json",
+  "secondary_scripts_detected": [
+    "Latin"
+  ],
+  "review_flags": {
+    "visual_content": 27,
+    "unverified_ocr": 27
+  },
+  "ocr_supplement": "ocr/",
+  "reading_order_note": "Native PDF content blocks with bounding boxes; complex slide reading order has not been exhaustively manually checked."
+}

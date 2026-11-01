@@ -1,0 +1,37 @@
+# secrets — never commit
+.env
+.env.*
+!.env.example
+
+# local environment and runtime state (rebuilt automatically on start)
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+storage/
+eval/results/
+prebuilt/**/*.tmp.npz
+
+# the original 232 MB archive is not needed: the app reads the extracted folder
+*.zip
+
+# Library data: commit ONLY what the app reads (~197 MB).
+#   kept:    manifest.json, README/summary, index/*.jsonl, documents/*/document.json,
+#            documents/*/original.*, documents/*/pages/*.webp, quality/validation-summary.json
+#   skipped: raw OCR (ocr/, 154 MB), ooxml/, native-flat-opc.xml, native-layout.json,
+#            reference-render.pdf, content.md, tables.json, logs and other quality reports
+data/*
+!data/rag-library/
+data/rag-library/*
+!data/rag-library/manifest.json
+!data/rag-library/README-ka.md
+!data/rag-library/conversion-summary-ka.md
+!data/rag-library/index/
+!data/rag-library/quality/
+data/rag-library/quality/*
+!data/rag-library/quality/validation-summary.json
+!data/rag-library/documents/
+data/rag-library/documents/*/*
+!data/rag-library/documents/*/document.json
+!data/rag-library/documents/*/original.*
+!data/rag-library/documents/*/pages/

@@ -1,0 +1,1176 @@
+{
+  "document_id": "17",
+  "original_filename": "არქეოლოგიური-ნალექები-RCH.pdf",
+  "original_archive_path": "სატესტო/არქეოლოგიური-ნალექები-RCH.pdf",
+  "original_sha256": "34e12b9c65b7731afe2aa06edfcfb3db1b98325b8eaffdc9cb0f5f382e722638",
+  "language": "ka",
+  "units": [
+    {
+      "document_id": "17",
+      "unit_id": "17-p001-b000",
+      "kind": "pdf_text_block",
+      "text": "არქეოლოგიური    ნალექები",
+      "markdown": "არქეოლოგიური    ნალექები",
+      "locator": {
+        "pdf_page": 1,
+        "block": 0,
+        "bbox": [
+          174.07000732421875,
+          130.030029296875,
+          593.3410034179688,
+          163.06326293945312
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p001-b001",
+      "kind": "pdf_text_block",
+      "text": "რუსუდან  ჩაგელიშვილი",
+      "markdown": "რუსუდან  ჩაგელიშვილი",
+      "locator": {
+        "pdf_page": 1,
+        "block": 1,
+        "bbox": [
+          258.260009765625,
+          279.6700134277344,
+          491.779052734375,
+          300.33123779296875
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p001-b002",
+      "kind": "pdf_text_block",
+      "text": "თბილისი, 2020",
+      "markdown": "თბილისი, 2020",
+      "locator": {
+        "pdf_page": 1,
+        "block": 2,
+        "bbox": [
+          301.5041809082031,
+          376.114013671875,
+          437.42156982421875,
+          394.4380187988281
+        ],
+        "page_image": "pages/001.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p002-b000",
+      "kind": "pdf_text_block",
+      "text": "ცუცხვათი, ბრინჯაოს მღვიმე \n 2018",
+      "markdown": "ცუცხვათი, ბრინჯაოს მღვიმე   \n 2018",
+      "locator": {
+        "pdf_page": 2,
+        "block": 0,
+        "bbox": [
+          13.631999969482422,
+          483.8520202636719,
+          257.67999267578125,
+          524.010009765625
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p002-b001",
+      "kind": "pdf_text_block",
+      "text": "•\nარქეონალექები წარსულში \nადამიანის უშუალო \nმოქმედების შედეგად არის \nწარმოქმნილი \n  \n•\nარქეონალექები შეიცავს \nარტეფაქტებს ან რაიმე სხვა \nადამიანის ყოფა-ცხოვრების \nამსახველ არქოლოგიურ \nნაშთებს  \n \n•\nარქეონალექებია  - ნახშირი \nკერის ნაშთები, \nსაცხოვრებელი იატაკი ან \nთხრილის შემავსებელი \nნალექები, რომლებსაც არ \nგანუცდიათ დალექვის \nშემდგომი ცვლილება.",
+      "markdown": "•  \nარქეონალექები წარსულში   \nადამიანის უშუალო   \nმოქმედების შედეგად არის   \nწარმოქმნილი   \n    \n•  \nარქეონალექები შეიცავს   \nარტეფაქტებს ან რაიმე სხვა   \nადამიანის ყოფა-ცხოვრების   \nამსახველ არქოლოგიურ   \nნაშთებს    \n   \n•  \nარქეონალექებია  - ნახშირი   \nკერის ნაშთები,   \nსაცხოვრებელი იატაკი ან   \nთხრილის შემავსებელი   \nნალექები, რომლებსაც არ   \nგანუცდიათ დალექვის   \nშემდგომი ცვლილება.",
+      "locator": {
+        "pdf_page": 2,
+        "block": 1,
+        "bbox": [
+          450.4100036621094,
+          37.714012145996094,
+          703.8880004882812,
+          466.530029296875
+        ],
+        "page_image": "pages/002.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p003-b000",
+      "kind": "pdf_text_block",
+      "text": "არქეონალექები",
+      "markdown": "არქეონალექები",
+      "locator": {
+        "pdf_page": 3,
+        "block": 0,
+        "bbox": [
+          15.359999656677246,
+          6.469999313354492,
+          162.3490447998047,
+          27.131240844726562
+        ],
+        "page_image": "pages/003.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p003-b001",
+      "kind": "pdf_text_block",
+      "text": "ნახშირის ლინზა \n(ბრინჯაოს მღვიმე)",
+      "markdown": "ნახშირის ლინზა   \n(ბრინჯაოს მღვიმე)",
+      "locator": {
+        "pdf_page": 3,
+        "block": 1,
+        "bbox": [
+          43.17599868774414,
+          253.260009765625,
+          204.35342407226562,
+          293.4447937011719
+        ],
+        "page_image": "pages/003.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p003-b002",
+      "kind": "pdf_text_block",
+      "text": "საცხოვრებელი იატაკები და ცეცხლის კერა",
+      "markdown": "საცხოვრებელი იატაკები და ცეცხლის კერა",
+      "locator": {
+        "pdf_page": 3,
+        "block": 2,
+        "bbox": [
+          300.9100036621094,
+          253.2040252685547,
+          657.2380981445312,
+          271.5280456542969
+        ],
+        "page_image": "pages/003.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p003-b003",
+      "kind": "pdf_text_block",
+      "text": "(საწურბლიას მღვიმე)",
+      "markdown": "(საწურბლიას მღვიმე)",
+      "locator": {
+        "pdf_page": 3,
+        "block": 3,
+        "bbox": [
+          387.6700134277344,
+          274.58203125,
+          570.2134399414062,
+          293.164794921875
+        ],
+        "page_image": "pages/003.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 3
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p003-b004",
+      "kind": "pdf_text_block",
+      "text": "არტეფატები პირველად მდგომარეობაში (დმანისი)",
+      "markdown": "არტეფატები პირველად მდგომარეობაში (დმანისი)",
+      "locator": {
+        "pdf_page": 3,
+        "block": 4,
+        "bbox": [
+          156.36000061035156,
+          525.9240112304688,
+          579.177978515625,
+          544.4819946289062
+        ],
+        "page_image": "pages/003.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 4
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p004-b000",
+      "kind": "pdf_text_block",
+      "text": "ნალექთა  ტრანსპორტირების აგენტები",
+      "markdown": "ნალექთა  ტრანსპორტირების აგენტები",
+      "locator": {
+        "pdf_page": 4,
+        "block": 0,
+        "bbox": [
+          135.5,
+          194.4020233154297,
+          569.02001953125,
+          218.8340301513672
+        ],
+        "page_image": "pages/004.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p004-b001",
+      "kind": "pdf_text_block",
+      "text": "• წყალი (დროებით ღვარები, მდინარეები, სანაპირო \nზოლები და სხვ.) \n• ქარი  (ქვიშის დიუნები, ლიოსები) \n• მყინვარები  \n• გრავიტაცია/ სიმძიმის ძალა (მეწყერი, კოლუვიონი)  \n• ბიოლოგიური ორგანიზმები  (ცხოველები, \nმცენარეები)",
+      "markdown": "• წყალი (დროებით ღვარები, მდინარეები, სანაპირო   \nზოლები და სხვ.)   \n• ქარი  (ქვიშის დიუნები, ლიოსები)   \n• მყინვარები    \n• გრავიტაცია/ სიმძიმის ძალა (მეწყერი, კოლუვიონი)    \n• ბიოლოგიური ორგანიზმები  (ცხოველები,   \nმცენარეები)",
+      "locator": {
+        "pdf_page": 4,
+        "block": 1,
+        "bbox": [
+          71.42400360107422,
+          222.8900146484375,
+          669.3599853515625,
+          483.3360290527344
+        ],
+        "page_image": "pages/004.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p004-b002",
+      "kind": "pdf_text_block",
+      "text": "ნალექები იყოფა სამ ძირითად ტიპად: კლასტური, ქიმიური და ორგანული",
+      "markdown": "ნალექები იყოფა სამ ძირითად ტიპად: კლასტური, ქიმიური და ორგანული",
+      "locator": {
+        "pdf_page": 4,
+        "block": 2,
+        "bbox": [
+          40.992000579833984,
+          49.614036560058594,
+          659.0499877929688,
+          154.02001953125
+        ],
+        "page_image": "pages/004.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p005-b000",
+      "kind": "pdf_text_block",
+      "text": "წყლის მიერ მასალის გადატანა (ა, ბ)",
+      "markdown": "წყლის მიერ მასალის გადატანა (ა, ბ)",
+      "locator": {
+        "pdf_page": 5,
+        "block": 0,
+        "bbox": [
+          228.72000122070312,
+          489.7740478515625,
+          523.7720336914062,
+          514.9020385742188
+        ],
+        "page_image": "pages/005.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p005-b001",
+      "kind": "pdf_text_block",
+      "text": "საზანო (გ),  ვანი (დ)",
+      "markdown": "საზანო (გ),  ვანი (დ)",
+      "locator": {
+        "pdf_page": 5,
+        "block": 1,
+        "bbox": [
+          291.1199951171875,
+          511.1400146484375,
+          461.0480041503906,
+          536.5020141601562
+        ],
+        "page_image": "pages/005.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p006-b000",
+      "kind": "pdf_text_block",
+      "text": "ქარის მიერ მასალის გადატანა",
+      "markdown": "ქარის მიერ მასალის გადატანა",
+      "locator": {
+        "pdf_page": 6,
+        "block": 0,
+        "bbox": [
+          29.447999954223633,
+          505.5240478515625,
+          280.61798095703125,
+          530.8860473632812
+        ],
+        "page_image": "pages/006.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p007-b000",
+      "kind": "pdf_text_block",
+      "text": "მყინვარის მიერ მასალის გადატანა \nგრავიტაციული ძალებით მასალის გადატანა",
+      "markdown": "მყინვარის მიერ მასალის გადატანა   \nგრავიტაციული ძალებით მასალის გადატანა",
+      "locator": {
+        "pdf_page": 7,
+        "block": 0,
+        "bbox": [
+          7.199999809265137,
+          495.1500244140625,
+          710.35205078125,
+          520.5180053710938
+        ],
+        "page_image": "pages/007.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p008-b000",
+      "kind": "pdf_text_block",
+      "text": "ნალექების ბიოლოგიური აგენტებით გადაადგილების მაგალითია მცენარეთა \nფესვების და სხვა ცოცხალი ორგანიზმების  მოქმედებით და გამოწვეული \nშერევა",
+      "markdown": "ნალექების ბიოლოგიური აგენტებით გადაადგილების მაგალითია მცენარეთა   \nფესვების და სხვა ცოცხალი ორგანიზმების  მოქმედებით და გამოწვეული   \nშერევა",
+      "locator": {
+        "pdf_page": 8,
+        "block": 0,
+        "bbox": [
+          41.279998779296875,
+          468.8460388183594,
+          680.3920288085938,
+          530.3699951171875
+        ],
+        "page_image": "pages/008.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p009-b000",
+      "kind": "pdf_text_block",
+      "text": "ეროზია",
+      "markdown": "ეროზია",
+      "locator": {
+        "pdf_page": 9,
+        "block": 0,
+        "bbox": [
+          93.16799926757812,
+          147.6400146484375,
+          162.05799865722656,
+          166.19801330566406
+        ],
+        "page_image": "pages/009.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p009-b001",
+      "kind": "pdf_text_block",
+      "text": "დალექვა \nგადატანა",
+      "markdown": "დალექვა   \nგადატანა",
+      "locator": {
+        "pdf_page": 9,
+        "block": 1,
+        "bbox": [
+          269.7799987792969,
+          168.6920166015625,
+          484.3280029296875,
+          195.2780303955078
+        ],
+        "page_image": "pages/009.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p010-b000",
+      "kind": "pdf_text_block",
+      "text": "ინგრამ-უენტვორსის შკალაზე შედარებულია",
+      "markdown": "ინგრამ-უენტვორსის შკალაზე შედარებულია",
+      "locator": {
+        "pdf_page": 10,
+        "block": 0,
+        "bbox": [
+          28.607999801635742,
+          475.3175048828125,
+          365.4100036621094,
+          491.5647888183594
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p010-b001",
+      "kind": "pdf_text_block",
+      "text": "კლასტური ნალექები ნიადაგისა და",
+      "markdown": "კლასტური ნალექები ნიადაგისა და",
+      "locator": {
+        "pdf_page": 10,
+        "block": 1,
+        "bbox": [
+          63.64799880981445,
+          494.51751708984375,
+          330.25,
+          510.7648010253906
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p010-b002",
+      "kind": "pdf_text_block",
+      "text": "არტეფაქტების ზომებთან",
+      "markdown": "არტეფაქტების ზომებთან",
+      "locator": {
+        "pdf_page": 10,
+        "block": 2,
+        "bbox": [
+          100.12999725341797,
+          513.6360473632812,
+          289.28240966796875,
+          530.1155395507812
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p010-b004",
+      "kind": "pdf_text_block",
+      "text": "ENERGY",
+      "markdown": "ENERGY",
+      "locator": {
+        "pdf_page": 10,
+        "block": 4,
+        "bbox": [
+          643.1799926757812,
+          71.13202667236328,
+          719.4483642578125,
+          93.11602783203125
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 4
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p010-b005",
+      "kind": "pdf_text_block",
+      "text": "HIGH",
+      "markdown": "HIGH",
+      "locator": {
+        "pdf_page": 10,
+        "block": 5,
+        "bbox": [
+          669.4600219726562,
+          105.29000854492188,
+          725.9376831054688,
+          152.84002685546875
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 5
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p010-b007",
+      "kind": "pdf_text_block",
+      "text": "LOW",
+      "markdown": "LOW",
+      "locator": {
+        "pdf_page": 10,
+        "block": 7,
+        "bbox": [
+          671.260009765625,
+          406.3000183105469,
+          727.0785522460938,
+          454.00604248046875
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 7
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p010-b008",
+      "kind": "pdf_text_block",
+      "text": "კლასტური ნალექების კლასიფიკაცია ხდება ორ ძირითადი მახასიათებელის \nმიხედვით  - მინერალური შედგენილობით და ნატეხთა ზომებით",
+      "markdown": "კლასტური ნალექების კლასიფიკაცია ხდება ორ ძირითადი მახასიათებელის   \nმიხედვით  - მინერალური შედგენილობით და ნატეხთა ზომებით",
+      "locator": {
+        "pdf_page": 10,
+        "block": 8,
+        "bbox": [
+          13.751999855041504,
+          29.726322174072266,
+          644.5380859375,
+          69.66801452636719
+        ],
+        "page_image": "pages/010.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 8
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p011-b000",
+      "kind": "pdf_text_block",
+      "text": "არტეფაქტები \nგეოფაქტები არტეფაქტების მსგავსი  \nსაგნებია, რომელთა ფორმაც გეოლოგიური \nპროცესების შედეგად არის წარმოქმნილი",
+      "markdown": "არტეფაქტები   \nგეოფაქტები არტეფაქტების მსგავსი    \nსაგნებია, რომელთა ფორმაც გეოლოგიური   \nპროცესების შედეგად არის წარმოქმნილი",
+      "locator": {
+        "pdf_page": 11,
+        "block": 0,
+        "bbox": [
+          30.93600082397461,
+          7.274039268493652,
+          707.3561401367188,
+          68.79801940917969
+        ],
+        "page_image": "pages/011.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p012-b000",
+      "kind": "pdf_text_block",
+      "text": "1. სად იქნებოდა ნივთი თავიდან ნაპოვნი, ადამიანს რომ არ გადაეტანა  \n \n2.    გეოლოგიურ პროცესების შედეგად შეიძლებოდა თუ არა საგანი  \nმოხვედრილიყო ნალექებში \n \n3.   შეეძლო თუ არა სხვა გეოლოგიურ ან ბიოლოგიურ პროცესებს წარმოექმნა \nქვის ანატკჩის მსგავსი ფორმა.",
+      "markdown": "1. სად იქნებოდა ნივთი თავიდან ნაპოვნი, ადამიანს რომ არ გადაეტანა    \n   \n2.    გეოლოგიურ პროცესების შედეგად შეიძლებოდა თუ არა საგანი    \nმოხვედრილიყო ნალექებში   \n   \n3.   შეეძლო თუ არა სხვა გეოლოგიურ ან ბიოლოგიურ პროცესებს წარმოექმნა   \nქვის ანატკჩის მსგავსი ფორმა.",
+      "locator": {
+        "pdf_page": 12,
+        "block": 0,
+        "bbox": [
+          28.104000091552734,
+          22.32402801513672,
+          663.132080078125,
+          151.0847625732422
+        ],
+        "page_image": "pages/012.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p013-b000",
+      "kind": "pdf_text_block",
+      "text": "მიკროარტეფაქტები",
+      "markdown": "მიკროარტეფაქტები",
+      "locator": {
+        "pdf_page": 13,
+        "block": 0,
+        "bbox": [
+          28.152000427246094,
+          21.47003173828125,
+          196.40798950195312,
+          40.02803039550781
+        ],
+        "page_image": "pages/013.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p014-b000",
+      "kind": "pdf_text_block",
+      "text": "0.062 მმ ნაკლები ზომის ნაწილაკები",
+      "markdown": "0.062 მმ ნაკლები ზომის ნაწილაკები",
+      "locator": {
+        "pdf_page": 14,
+        "block": 0,
+        "bbox": [
+          37.152000427246094,
+          29.8900146484375,
+          341.9880065917969,
+          48.44801330566406
+        ],
+        "page_image": "pages/014.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p015-b000",
+      "kind": "pdf_text_block",
+      "text": "ვულკანოკლასტური ნალექები",
+      "markdown": "ვულკანოკლასტური ნალექები",
+      "locator": {
+        "pdf_page": 15,
+        "block": 0,
+        "bbox": [
+          295.67999267578125,
+          16.74005126953125,
+          551.4080200195312,
+          35.29804992675781
+        ],
+        "page_image": "pages/015.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p015-b001",
+      "kind": "pdf_text_block",
+      "text": "პომპეი, \nიტალია \nხოია დე სერენი, \nსალვადორი",
+      "markdown": "პომპეი,   \nიტალია   \nხოია დე სერენი,   \nსალვადორი",
+      "locator": {
+        "pdf_page": 15,
+        "block": 1,
+        "bbox": [
+          39.40800094604492,
+          471.92401123046875,
+          390.32000732421875,
+          522.8820190429688
+        ],
+        "page_image": "pages/015.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p015-b002",
+      "kind": "pdf_text_block",
+      "text": "კოობი ფორა, კენია",
+      "markdown": "კოობი ფორა, კენია",
+      "locator": {
+        "pdf_page": 15,
+        "block": 2,
+        "bbox": [
+          531.5999755859375,
+          482.7240295410156,
+          690.968017578125,
+          501.28204345703125
+        ],
+        "page_image": "pages/015.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p015-b003",
+      "kind": "pdf_text_block",
+      "text": "არქეოლოგიაში ისინი  ძალიან მნიშვნელოვანია \nსტრატიგრაფიის თვალსაზრისით",
+      "markdown": "არქეოლოგიაში ისინი  ძალიან მნიშვნელოვანია   \nსტრატიგრაფიის თვალსაზრისით",
+      "locator": {
+        "pdf_page": 15,
+        "block": 3,
+        "bbox": [
+          209.69000244140625,
+          46.06401824951172,
+          606.6640625,
+          85.98802185058594
+        ],
+        "page_image": "pages/015.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 3
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p016-b000",
+      "kind": "pdf_text_block",
+      "text": "ნალექები",
+      "markdown": "ნალექები",
+      "locator": {
+        "pdf_page": 16,
+        "block": 0,
+        "bbox": [
+          181.17999267578125,
+          73.1400146484375,
+          267.5679931640625,
+          91.69801330566406
+        ],
+        "page_image": "pages/016.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p016-b001",
+      "kind": "pdf_text_block",
+      "text": "დმანისი, 2017",
+      "markdown": "დმანისი, 2017",
+      "locator": {
+        "pdf_page": 16,
+        "block": 1,
+        "bbox": [
+          94.48799896240234,
+          502.83599853515625,
+          213.05799865722656,
+          521.3939819335938
+        ],
+        "page_image": "pages/016.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p017-b000",
+      "kind": "pdf_text_block",
+      "text": "SAND",
+      "markdown": "SAND",
+      "locator": {
+        "pdf_page": 17,
+        "block": 0,
+        "bbox": [
+          97.65599822998047,
+          359.6000061035156,
+          153.06399536132812,
+          379.6700134277344
+        ],
+        "page_image": "pages/017.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p017-b001",
+      "kind": "pdf_text_block",
+      "text": "SILT",
+      "markdown": "SILT",
+      "locator": {
+        "pdf_page": 17,
+        "block": 1,
+        "bbox": [
+          109.69999694824219,
+          268.8500061035156,
+          152.50399780273438,
+          288.9200134277344
+        ],
+        "page_image": "pages/017.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p017-b002",
+      "kind": "pdf_text_block",
+      "text": "GRAVEL",
+      "markdown": "GRAVEL",
+      "locator": {
+        "pdf_page": 17,
+        "block": 2,
+        "bbox": [
+          97.65599822998047,
+          176.02003479003906,
+          175.86399841308594,
+          196.09002685546875
+        ],
+        "page_image": "pages/017.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p017-b003",
+      "kind": "pdf_text_block",
+      "text": "CLAY + SILT",
+      "markdown": "CLAY + SILT",
+      "locator": {
+        "pdf_page": 17,
+        "block": 3,
+        "bbox": [
+          378.4599914550781,
+          129.2000274658203,
+          488.8240051269531,
+          149.27001953125
+        ],
+        "page_image": "pages/017.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 3
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p017-b004",
+      "kind": "pdf_text_block",
+      "text": "ენერგიის ცვლილება \nუცვლელი ენერგია",
+      "markdown": "ენერგიის ცვლილება   \nუცვლელი ენერგია",
+      "locator": {
+        "pdf_page": 17,
+        "block": 4,
+        "bbox": [
+          80.20800018310547,
+          15.850015640258789,
+          577.3340454101562,
+          37.19801330566406
+        ],
+        "page_image": "pages/017.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 4
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p017-b005",
+      "kind": "pdf_text_block",
+      "text": "ნალექები წარმოადგენენ ტრანსპორტის \nდაბალი ან მაღალი ენერგიის \nინდიკატორებს",
+      "markdown": "ნალექები წარმოადგენენ ტრანსპორტის   \nდაბალი ან მაღალი ენერგიის   \nინდიკატორებს",
+      "locator": {
+        "pdf_page": 17,
+        "block": 5,
+        "bbox": [
+          12.168000221252441,
+          454.6380310058594,
+          339.4540100097656,
+          516.18603515625
+        ],
+        "page_image": "pages/017.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 5
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p018-b000",
+      "kind": "pdf_text_block",
+      "text": "ქიმიური ნალექები ადამიანის დასახლებების გრემო პირობების",
+      "markdown": "ქიმიური ნალექები ადამიანის დასახლებების გრემო პირობების",
+      "locator": {
+        "pdf_page": 18,
+        "block": 0,
+        "bbox": [
+          88.08000183105469,
+          20.09404754638672,
+          614.7660522460938,
+          38.41804504394531
+        ],
+        "page_image": "pages/018.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p018-b001",
+      "kind": "pdf_text_block",
+      "text": "მნიშვნელოვანი ინდიკატორია",
+      "markdown": "მნიშვნელოვანი ინდიკატორია",
+      "locator": {
+        "pdf_page": 18,
+        "block": 1,
+        "bbox": [
+          224.05999755859375,
+          41.462013244628906,
+          481.96343994140625,
+          60.04475402832031
+        ],
+        "page_image": "pages/018.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p018-b002",
+      "kind": "pdf_text_block",
+      "text": "ჰუმიდური კლიმატისათვის დამახასიათებელია Fe, Mn და Al მაღალი \nკონცენტრაციები",
+      "markdown": "ჰუმიდური კლიმატისათვის დამახასიათებელია Fe, Mn და Al მაღალი   \nკონცენტრაციები",
+      "locator": {
+        "pdf_page": 18,
+        "block": 2,
+        "bbox": [
+          38.25600051879883,
+          94.07000732421875,
+          607.5700073242188,
+          135.7880096435547
+        ],
+        "page_image": "pages/018.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p018-b003",
+      "kind": "pdf_text_block",
+      "text": "არიდულ ზონებში ილექება ევაპორიტები  – Na, K, Ca, Mg-ის სულფატები \n(კალციტი, დოლომიტი, თაბაშირი, ჰალიტი (ნატრიუმის ქლორიდი) და \nქლორიდები.",
+      "markdown": "არიდულ ზონებში ილექება ევაპორიტები  – Na, K, Ca, Mg-ის სულფატები   \n(კალციტი, დოლომიტი, თაბაშირი, ჰალიტი (ნატრიუმის ქლორიდი) და   \nქლორიდები.",
+      "locator": {
+        "pdf_page": 18,
+        "block": 3,
+        "bbox": [
+          38.25600051879883,
+          148.31201171875,
+          642.135986328125,
+          213.08802795410156
+        ],
+        "page_image": "pages/018.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 3
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p018-b004",
+      "kind": "pdf_text_block",
+      "text": "ჰალიტი,  ფოსფორიტი,   მანგანუმი  და  რკინა  არქეოლოგიურ  ნალექებში",
+      "markdown": "ჰალიტი,  ფოსფორიტი,   მანგანუმი  და  რკინა  არქეოლოგიურ  ნალექებში",
+      "locator": {
+        "pdf_page": 18,
+        "block": 4,
+        "bbox": [
+          154.27000427246094,
+          437.280029296875,
+          562.1719970703125,
+          449.65203857421875
+        ],
+        "page_image": "pages/018.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 4
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p018-b005",
+      "kind": "pdf_text_block",
+      "text": "ფოსფატები - ცხოველთა ნაშთების - ძვლებისა და ნიჟარების გარდაქმნის \nმეორადი პროდუქტია.  არქეონალექებში, მათი სივრცობრივი ცვალებადობა და \nკონცენტრაცია გამოიყენება ადამიანთა აქტივობის ადგილების ინდიკატორად.",
+      "markdown": "ფოსფატები - ცხოველთა ნაშთების - ძვლებისა და ნიჟარების გარდაქმნის   \nმეორადი პროდუქტია.  არქეონალექებში, მათი სივრცობრივი ცვალებადობა და   \nკონცენტრაცია გამოიყენება ადამიანთა აქტივობის ადგილების ინდიკატორად.",
+      "locator": {
+        "pdf_page": 18,
+        "block": 5,
+        "bbox": [
+          21.91200065612793,
+          467.2923278808594,
+          674.2003784179688,
+          528.833984375
+        ],
+        "page_image": "pages/018.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 5
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p019-b000",
+      "kind": "pdf_text_block",
+      "text": "ორგანული ნალექები",
+      "markdown": "ორგანული ნალექები",
+      "locator": {
+        "pdf_page": 19,
+        "block": 0,
+        "bbox": [
+          12.192000389099121,
+          10.6700439453125,
+          195.447998046875,
+          29.228042602539062
+        ],
+        "page_image": "pages/019.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p020-b000",
+      "kind": "pdf_text_block",
+      "text": "ორგანული ნალექდაგროვების გარემო",
+      "markdown": "ორგანული ნალექდაგროვების გარემო",
+      "locator": {
+        "pdf_page": 20,
+        "block": 0,
+        "bbox": [
+          83.76000213623047,
+          7.24005126953125,
+          402.0379943847656,
+          25.798049926757812
+        ],
+        "page_image": "pages/020.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p020-b001",
+      "kind": "pdf_text_block",
+      "text": "სთარ ქარი, ინგლისი",
+      "markdown": "სთარ ქარი, ინგლისი",
+      "locator": {
+        "pdf_page": 20,
+        "block": 1,
+        "bbox": [
+          43.65599822998047,
+          282.6400146484375,
+          218.1479949951172,
+          301.1980285644531
+        ],
+        "page_image": "pages/020.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 1
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p020-b002",
+      "kind": "pdf_text_block",
+      "text": "ადამიანი თოლუნდიდან. დანია",
+      "markdown": "ადამიანი თოლუნდიდან. დანია",
+      "locator": {
+        "pdf_page": 20,
+        "block": 2,
+        "bbox": [
+          431.6199951171875,
+          501.4200439453125,
+          698.8679809570312,
+          519.97802734375
+        ],
+        "page_image": "pages/020.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 2
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p020-b003",
+      "kind": "pdf_text_block",
+      "text": "შვეიცარია, ფლორიდა სადაც  \nჭაობიან ადგილებში \nადამიანის ნაშთები და \nშენობებია შემონახული",
+      "markdown": "შვეიცარია, ფლორიდა სადაც    \nჭაობიან ადგილებში   \nადამიანის ნაშთები და   \nშენობებია შემონახული",
+      "locator": {
+        "pdf_page": 20,
+        "block": 3,
+        "bbox": [
+          258.8599853515625,
+          372.59002685546875,
+          503.7919921875,
+          455.946044921875
+        ],
+        "page_image": "pages/020.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 3
+    },
+    {
+      "document_id": "17",
+      "unit_id": "17-p021-b000",
+      "kind": "pdf_text_block",
+      "text": "არტეკლასტები \nძლიერ შეცვლილი, ტრანსპორტირებული,  \nფრაგმენტული არტეფაქტები, რომელსაც \nადამიანის მიერ შექმნილი საწყისი \nმახასიათებლები დაკარგული აქვს",
+      "markdown": "არტეკლასტები   \nძლიერ შეცვლილი, ტრანსპორტირებული,    \nფრაგმენტული არტეფაქტები, რომელსაც   \nადამიანის მიერ შექმნილი საწყისი   \nმახასიათებლები დაკარგული აქვს",
+      "locator": {
+        "pdf_page": 21,
+        "block": 0,
+        "bbox": [
+          50.61600112915039,
+          29.68749237060547,
+          585.057861328125,
+          103.67478942871094
+        ],
+        "page_image": "pages/021.webp"
+      },
+      "extraction": "native",
+      "human_verified": false,
+      "source_order": 0
+    }
+  ],
+  "pdf_pages": 21,
+  "source_locator": "original_pdf_page_and_block",
+  "native_layout": "native-layout.json",
+  "secondary_scripts_detected": [
+    "Latin"
+  ],
+  "review_flags": {
+    "visual_content": 19,
+    "unverified_ocr": 19
+  },
+  "ocr_supplement": "ocr/",
+  "reading_order_note": "Native PDF content blocks with bounding boxes; complex slide reading order has not been exhaustively manually checked."
+}
